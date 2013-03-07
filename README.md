@@ -6,6 +6,6 @@ Can be quickly repurposed to your needs and/or pagebreak sizes.
 
 Simply drop this code in the bottom of your primary CSS file.
 
-Icons for each size are also available in the "*device-icons*" directory
+Icons for each size are also available in the *"device-icons"* directory
 
 ![Alt text](/Responsive_Debug_Screenshot.jpg "Example Screenshot")
